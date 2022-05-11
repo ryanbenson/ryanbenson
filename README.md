@@ -4,7 +4,9 @@ I create software and websites. I spread a lot of joy in the meantime! ✨
 
 Here are some fun things about my side projects that are more or less to learn and have fun!
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbenson&show_icons=true&theme=radical)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanbenson&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbenson&layout=compact&theme=cobalt&include_all_commits=true&count_private=true)]
 
 #### Current Fun Work 🔭
 
