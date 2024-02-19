@@ -14,7 +14,7 @@ Here are some fun things about my side projects that are more or less to learn a
 
 #### Learning 🌱
 
-(Outside of the `laera` repo)
+(Outside of the `dsa` repo)
 
 * Woodworking 🪵 🪑 
 * Gardening 🪴 🍅 🌱
