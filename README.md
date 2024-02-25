@@ -8,7 +8,7 @@ Here are some fun things about my side projects that are more or less to learn a
 
 #### Current Fun Work 🔭
 
-* I'm consistently working on [learning and playing around with algorithms and problem solving](https://github.com/ryanbenson/laera)
+* I'm consistently working on [learning and playing around with algorithms and problem solving](https://github.com/ryanbenson/Data-Structures-and-Algorithms)
 * I'm building a fun Genshin Impact feedback app in React and Node using Redux toolkit
 * I'm also creating a Discord bot to help notify you when a product comes back in stock. I had a Go based one, but I'm porting it over to Discord to make it easier to manage
 
